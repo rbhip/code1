@@ -1,1 +1,10 @@
 new text file on branch b1
+
+
+++++++*****
+added some text to the same file
+when it was on b1 branch
+***************************
+
+
+
